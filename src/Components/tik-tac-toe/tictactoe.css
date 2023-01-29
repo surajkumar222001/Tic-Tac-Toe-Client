@@ -1,0 +1,26 @@
+.layout{
+position: relative;
+width: 360px;
+height: 720px;
+background: #FFFFFF;
+}
+.box{
+    position: absolute;
+    width: 105.09px;
+    height: 105.09px;
+    left: 16px;
+    top: 264px;
+    
+    background: #FFFFFF;
+}
+
+.x {
+    font-family: 'arial';
+    font-size: 40px;
+    position: absolute;
+    color: #2C8DFF;
+    margin-top: -10px;
+   }
+
+
+

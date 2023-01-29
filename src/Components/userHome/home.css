@@ -1,0 +1,39 @@
+.layout{
+    position: relative;
+width: 360px;
+height: 720px;
+
+background: #FFFFFF;
+}
+
+.f2{
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 86px;
+    text-align: center;
+    margin-top: 100px;
+}
+.butt{
+    margin-top: 50px;
+}
+.newgame{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 12px 8px 8px;
+gap: 4px;
+
+position: absolute;
+width: 124px;
+height: 40px;
+right: 24px;
+bottom: 24px;
+
+background: #270F36;
+/* Drop Shadow 1 */
+
+box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+border-radius: 8px;
+}

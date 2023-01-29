@@ -1,0 +1,25 @@
+.entry{
+    position: relative;
+    width: 360px;
+    height: 720px;
+
+    background: #FFFFFF;
+}
+.f1{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 37px;
+}
+
+.f2{
+    font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 84px;
+line-height: 86px;
+text-align: center;
+}
+
+
