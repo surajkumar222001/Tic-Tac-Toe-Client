@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+Project Link:
+https://cool-genie-e219eb.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
